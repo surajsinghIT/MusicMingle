@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MusicMingle/static/css/main.f123e12b.css",
-    "main.js": "/MusicMingle/static/js/main.dd4fe005.js",
+    "main.js": "/MusicMingle/static/js/main.c889ddb3.js",
     "static/css/49.2ad6e880.chunk.css": "/MusicMingle/static/css/49.2ad6e880.chunk.css",
     "static/js/49.72ed8157.chunk.js": "/MusicMingle/static/js/49.72ed8157.chunk.js",
     "static/css/912.718525ca.chunk.css": "/MusicMingle/static/css/912.718525ca.chunk.css",
@@ -13,7 +13,7 @@
     "static/media/bootstrap-icons.woff2?": "/MusicMingle/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/MusicMingle/index.html",
     "main.f123e12b.css.map": "/MusicMingle/static/css/main.f123e12b.css.map",
-    "main.dd4fe005.js.map": "/MusicMingle/static/js/main.dd4fe005.js.map",
+    "main.c889ddb3.js.map": "/MusicMingle/static/js/main.c889ddb3.js.map",
     "49.2ad6e880.chunk.css.map": "/MusicMingle/static/css/49.2ad6e880.chunk.css.map",
     "49.72ed8157.chunk.js.map": "/MusicMingle/static/js/49.72ed8157.chunk.js.map",
     "912.718525ca.chunk.css.map": "/MusicMingle/static/css/912.718525ca.chunk.css.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.f123e12b.css",
-    "static/js/main.dd4fe005.js"
+    "static/js/main.c889ddb3.js"
   ]
 }
