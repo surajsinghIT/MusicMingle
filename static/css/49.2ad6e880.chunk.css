@@ -1,0 +1,2 @@
+.tile-card{align-items:center;border-radius:15px;cursor:pointer!important;display:flex;height:250px;justify-content:center;overflow:hidden;transition:transform .3s ease,box-shadow .3s ease}.tile-card:hover{box-shadow:0 8px 20px #0000004d;transform:scale(1.05)}.tile-icon{color:#ff9f1c;font-size:3rem;transition:color .3s ease}.tile-card:hover .tile-icon{color:#ff6f61}.tile-title{color:#fff;font-size:1.25rem;font-weight:700;text-shadow:0 2px 5px #000000b3}
+/*# sourceMappingURL=49.2ad6e880.chunk.css.map*/
