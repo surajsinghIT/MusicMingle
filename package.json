@@ -1,7 +1,7 @@
-{
+{  
   "name": "songspot",
   "version": "0.1.0",
-  "homepage": "https://myusername.github.io/",
+  "homepage": "https://surajsinghit.github.io/MusicMingle/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -15,6 +15,7 @@
     "react-bootstrap": "^2.10.6",
     "react-dom": "^18.2.0",
     "react-router-dom": "^7.0.2",
+    "react-script": "^2.0.5",
     "react-scripts": "5.0.1",
     "songspot": "file:",
     "web-vitals": "^2.1.4"
