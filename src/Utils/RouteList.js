@@ -1,7 +1,7 @@
-const HOMEPAGE = '/MusicMingle/';
-const SONGDETAILS = '/MusicMingle/songs-listings';
+const HOMEPAGE = '/';
+const SONGDETAILS = '/songs-listings';
 
 export {
     SONGDETAILS,
     HOMEPAGE
-};
+  };
