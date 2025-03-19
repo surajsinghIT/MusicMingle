@@ -1,0 +1,5 @@
+export const types = {
+    GET_MUSIC: "GET_MUSIC",
+    GET_MUSIC_RESPONSE: "GET_MUSIC_RESPONSE",
+    GET_MUSIC_CLEAR: "GET_MUSIC_CLEAR",
+}
